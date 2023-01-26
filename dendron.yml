@@ -92,7 +92,7 @@ publishing:
         - root
     enableSiteLastModified: true
     siteRootDir: docs
-    siteUrl: https://rethink.github.io
+    siteUrl: https://kuczera.github.io/rethink
     enableFrontmatterTags: true
     enableHashesForFMTags: false
     enableRandomlyColoredTags: true
