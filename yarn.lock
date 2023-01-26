@@ -35,7 +35,7 @@
   resolved "https://registry.npmjs.org/@dendronhq/airtable/-/airtable-0.11.1.tgz"
   integrity sha512-K4mhpit5Hz43EX8whiMLPX2Qi9t3Vv5ZouXxSOsOt1WgzpNcQ37NtMnkKzTE99m+x19D+4j/N4AVwXneeWZIgQ==
   dependencies:
-    "@types/node" ">=8.0.0 <15"
+    "@types/node" ">=8.0.0 <16"
     "@types/node-fetch" "^3.0.3"
     abort-controller "^3.0.0"
     abortcontroller-polyfill "^1.4.0"
