@@ -35,7 +35,7 @@
   resolved "https://registry.yarnpkg.com/@dendronhq/airtable/-/airtable-0.11.1.tgz#06d863b6b0436aa925478ec1abcea5c58152aa85"
   integrity sha512-K4mhpit5Hz43EX8whiMLPX2Qi9t3Vv5ZouXxSOsOt1WgzpNcQ37NtMnkKzTE99m+x19D+4j/N4AVwXneeWZIgQ==
   dependencies:
-    "@types/node" ">=8.0.0 <15"
+    "@types/node" ">=8.0.0 <16"
     "@types/node-fetch" "^3.0.3"
     abort-controller "^3.0.0"
     abortcontroller-polyfill "^1.4.0"
